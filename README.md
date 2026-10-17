@@ -1,4 +1,4 @@
-Project ReSparked
+## Project ReSparked
 
 An collection of tools and scripts to enable creativity in Project Spark.
 
